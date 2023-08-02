@@ -1,0 +1,15 @@
+.Pokedex {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.Pokemon {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Pokedex h1 {
+    color: lightgrey;
+    text-align: center;
+}
